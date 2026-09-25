@@ -3,3 +3,5 @@
 
 # Environment variables / secrets
 .env
+# Generated agent outputs
+agent_outputs/
